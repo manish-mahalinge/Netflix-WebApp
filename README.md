@@ -39,15 +39,18 @@ Total 6 EC2 instances were used for this project:
 
 ----------------------------------------------------------------------------------
 
-
 ## 🛠️ Tech Stack
-- Java
-- Maven
-- Jenkins
-- Docker
-- Ansible
-- Kubernetes
-- AWS EC2
+
+- **Languages:** Java, Python  
+- **Build Tools:** Maven  
+- **CI/CD:** Jenkins  
+- **Containerization:** Docker  
+- **Configuration Management:** Ansible  
+- **Orchestration:** Kubernetes  
+- **Cloud:** AWS (EC2)  
+- **Web Server:** Tomcat  
+- **Version Control:** Git, GitHub  
+- **Scripting:** Shell Scripting  
 
 ----------------------------------------------------------------------------------
 
