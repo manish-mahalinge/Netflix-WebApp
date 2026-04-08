@@ -18,6 +18,25 @@ Developer → GitHub → Jenkins → Ansible → DockerHub → Kubernetes → Lo
 <img width="1776" height="738" alt="Screenshot 2026-04-06 172349" src="https://github.com/user-attachments/assets/de18fc21-6997-4693-a5c5-a943a7fc6798" />
 
 ----------------------------------------------------------------------------------
+## ⚙️ Infrastructure Setup
+
+### 🖥️ EC2 Instances
+
+Total 6 EC2 instances were used for this project:
+- Git Server
+- Jenkins Server
+- Ansible Server
+- Kubernetes Master
+- Kubernetes Worker Node 1
+- Kubernetes Worker Node 2
+
+
+
+<img width="1910" height="592" alt="Screenshot 2026-04-07 105730" src="https://github.com/user-attachments/assets/cea04251-eb88-470d-aef9-25139d0e890a" />
+
+
+----------------------------------------------------------------------------------
+
 
 ## 🛠️ Tech Stack
 - Java
@@ -174,7 +193,8 @@ Application accessed via LoadBalancer
 ## 🐞 Issues Faced
 - Tomcat not running → fixed by copying files
 
-(Add screenshot: error + fix)
+<img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/3b31ae7b-d991-4f4d-b2dc-298c83be8241" />
+
 
 ----------------------------------------------------------------------------------
 
