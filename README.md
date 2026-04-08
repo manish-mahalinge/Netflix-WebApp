@@ -1,4 +1,4 @@
-# 🚀 Netflix WebApp - End-to-End CI/CD Pipeline using Jenkins, Ansible & Kubernetes
+# 🚀End-to-End CI/CD Pipeline using Jenkins, Ansible & Kubernetes
 
 ## 📌 Project Overview
 This project demonstrates a **real-time production-level CI/CD pipeline** for deploying a Java-based web application using DevOps tools.
