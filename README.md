@@ -51,8 +51,8 @@ Total 6 EC2 instances were used for this project:
 - **Web Server:** Tomcat  
 - **Version Control:** Git, GitHub  
 - **Scripting:** Shell Scripting  
-
-----------------------------------------------------------------------------------
+- **Monitoring:** Prometheus, Grafana  
+------------------------------------------------------------------------------
 
 ## ⚙️ Step 1: Git Setup
 - Launch EC2 for Git Server
@@ -193,7 +193,26 @@ One job is currently in a running state as shown below.
 <img width="1920" height="1080" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/52783ba1-7024-4033-86f0-8c49147b5180" />
 
 
+--------------------------------------------------------------------------------
+
+## 📊 Monitoring  
+
+Basic monitoring was set up using Prometheus and Grafana on Kubernetes.  
+Used Helm to deploy the monitoring stack and accessed Grafana dashboards to visualize CPU, memory, and pod-level metrics.
+
+
+<img width="1536" height="1024" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/22ed6280-6837-4556-9ba1-8e257532100f" />
+
 ----------------------------------------------------------------------------------
+
+## 🔄 Automation Flow
+...
+----------------------------------------------------------------------------------
+
+## 📊 Verification
+...
+
+
 ## 🔄 Automation Flow
 
 🚀 Code Push → ⚙️ CI (Jenkins) → 🐳 Docker Build → 📦 DockerHub → 🚀 CD → ☸️ Kubernetes## 🎯 Conclusion
