@@ -203,14 +203,7 @@ Used Helm to deploy the monitoring stack and accessed Grafana dashboards to visu
 
 <img width="1536" height="1024" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/22ed6280-6837-4556-9ba1-8e257532100f" />
 
-----------------------------------------------------------------------------------
-
-## 🔄 Automation Flow
-...
-----------------------------------------------------------------------------------
-
-## 📊 Verification
-...
+--------------------------------------------------------------------------
 
 
 ## 🔄 Automation Flow
